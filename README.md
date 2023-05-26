@@ -1,4 +1,4 @@
-# Anupama7979https://android-developers.googleblog.com/2019/10/android-developer-challenge.html
+
 <h1 align="center">Hi 👋, I'm Anupama Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
