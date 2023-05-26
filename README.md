@@ -1,7 +1,7 @@
 # Anupama7979https://android-developers.googleblog.com/2019/10/android-developer-challenge.html
 <h1 align="center">Hi 👋, I'm Anupama Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-https://www.google.com/imgres?imgurl=https%3A%2F%2Fres.cloudinary.com%2Fpracticaldev%2Fimage%2Ffetch%2Fs--O0u1bNHs--%2Fc_limit%252Cf_auto%252Cfl_progressive%252Cq_66%252Cw_880%2Fhttps%3A%2F%2Fmiro.medium.com%2Fmax%2F1400%2F0%252APXf5ge7QCN9Ga_CL.gif&tbnid=3brDSoVYXy7FhM&vet=12ahUKEwjD8NPvtpL_AhUSCLcAHaMMCzwQMygbegUIARDLAg..i&imgrefurl=https%3A%2F%2Fdev.to%2Fshristi26281534%2Fweb-developer-vs-software-developer-2en&docid=6pD5xQZLpg-yEM&w=800&h=600&q=animated%20gif%20images%20as%20developer&ved=2ahUKEwjD8NPvtpL_AhUSCLcAHaMMCzwQMygbegUIARDLAg
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anupma7979&label=Profile%20views&color=0e75b6&style=flat" alt="anupma7979" /> </p>
 
